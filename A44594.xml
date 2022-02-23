@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A wonder of wonders: or, Gods people the worlds wonder, or They are men wondred at very profitable for these times, wherein men take so much liberty to sin and dishonour our God. Written by Roger Hough a lover of the truth.</title>
+            <author>Hough, Roger.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44594</idno>
+            <idno type="STC">Wing H2915</idno>
+            <idno type="STC">ESTC R215376</idno>
+            <idno type="EEBO-CITATION">99827271</idno>
+            <idno type="PROQUEST">99827271</idno>
+            <idno type="VID">31688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44594)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31688)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1890:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A wonder of wonders: or, Gods people the worlds wonder, or They are men wondred at very profitable for these times, wherein men take so much liberty to sin and dishonour our God. Written by Roger Hough a lover of the truth.</title>
+                  <author>Hough, Roger.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Passenger at the Three Bibles on the middle of London-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: Gods people wicked mens wonder.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31688:1" rendition="simple:additions"/>
+            <p>A Wonder of Wonders: OR, GODS People THE WORLDS WONDER, OR They are Men wondred at: Very profitable for theſe Times, wherein men take ſo much liberty to ſin and diſhonour our God.</p>
+            <p>Written by <hi>Roger Hough,</hi> a Lover of the Truth.</p>
+            <q>
+               <bibl>
+                  <hi>Iſa. 8.18.</hi>
+               </bibl>
+               <p>Behold, I and the children whom the Lord hath give me are for ſigns and for wonders in <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> before the Lord of Hoſts that dwell in Mount <hi>Sion.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 14.1.</hi>
+               </bibl>
+               <p>The fool hath ſaid in his heart there is no God: they are corrupt, they have done abominable works; there is none that doth good.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Paſſenger</hi> at the Three Bi<g ref="char:EOLhyphen"/>bles on the middle of <hi>London</hi>-Bridge. 1666.</p>
+            <pb facs="tcp:31688:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:31688:2" rendition="simple:additions"/>
+            <pb facs="tcp:31688:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:31688:3" rendition="simple:additions"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Zachariah,</hi> 38.</bibl>
+                  <p>Hear now, O <hi>Joſhua,</hi> the High Prieſt, thou and thy Fellows, that ſit before the Lord: they are Men wondred at.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">B</seg>Eloved, in this Chapter, the holy Prophet, brings in under the Type of <hi>J<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhua</hi> the high Prieſt Gods dealing with his Church and people in all Ages; they are, and were ever wondred at by wicked and ungodly m<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n: the Lord alſo in the foregoing verſes of this Chapter, gives this exhortation to <hi>Ioſhua</hi> to put off the filthy Garments, wherewith he ſtood cloathed before the Lord: the reproach of wicked men is as filthy Garments. But the ungodly man puts off this garment, by his holy and humble car<g ref="char:EOLhyphen"/>riage: both in the preſence of God and his peo<g ref="char:EOLhyphen"/>ple. and ſo he becomes cloathed with the <hi>White Robe of Chriſts Righteouſneſs,</hi> as if were with a garment, whereby he hath acceſs with boldneſs to the throne of Grace, and can boldly ſtand before God, and own God, as his Faithfull Creator: and though a World of wicked men wonder at him, becauſe he fears God and walks in his war, yet he needs not be diſcouraged, the Lord owns him, and the Lord will own him, and all thoſe that fear him, and walk before him in the great day of account, <hi>When he makes up his Iewels,</hi> Mal. <hi>3.17.</hi>
+            </p>
+            <p>But it is ſo Beloved, Gods deareſt Saints
+<pb facs="tcp:31688:4"/>are the worlds wonder: the more religious any ſoul is, the more the world wonders at it: and that I may diſcover unto you the truth of this, I ſhall firſt of all ſhew you what it is wicked y<hi rend="sup">t</hi> men wonder at. And <hi>2ly,</hi> I ſhall hold forth unto you the practice of wicked men. And <hi>3ly,</hi> I ſhall labour to ſhew you the reaſon of wicked mens wonder. And <hi>4ly,</hi> I ſhall apply this truth: firſt, in reference to the world and wick<g ref="char:EOLhyphen"/>ed men, and thereby ſhall not only ſhew you their wonder, but Gods people wonder at them and wicked men wonder at one another: and ſecondly, I ſhall hold forth a word or two to them that are really Godly: and then in the laſt place, conclude all in a word of Exhorta<g ref="char:EOLhyphen"/>tion, which will be all I ſhall inſiſt upon at this time.</p>
+            <p>And firſt of all in the generall, wicked men wonder at religion, and at holineſs: wicked men wonder not at the notion of the things of God, <hi>T<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 1.16.</hi> wicked men profeſs in words they know God, but in works they deny God: they do not ſo much wonder at the profeſſion of Gods people, but they wonder at their holineſs. Wicked men ſometimes make an outward profeſſion of Chriſt being come in the fleſh, in their words &amp; outward expreſſions, but in their inward works and actings, they do deny <hi>Chriſt come in the fleſh, 1</hi> John <hi>4.1, 2. Beloved, believe not every ſpirit, but try the ſpirit, whether they are of God, becauſe many falfe Prophets are gone out into the world. Hereby know we the ſpirit of God, every ſpirit that confeſſeth that Ieſus Chriſt is come
+<pb facs="tcp:31688:4"/>in the fleſh, is of God: and every ſpirit that con<g ref="char:EOLhyphen"/>feſſeth not that Ieſus Chriſt is come in the fleſh, is not of God:</hi> and wicked men profeſs that Ie<g ref="char:EOLhyphen"/>ſus Chriſt is come in the fleſh; in outward ex<g ref="char:EOLhyphen"/>preſſion, but in works they deny him, and ſo they become fooliſh, <hi>Saying in their hearts there is no God,</hi> Pſal. <hi>14.1.</hi> and thus you may per<g ref="char:EOLhyphen"/>ceive the folly, and madneſſe of wicked men, in that they deny holineſſe, and ſcoffe and féer at Gods wayes, wherein his people ſerve him: they do not wonder that men profeſs God ſo much, as they wonder that men ſhould ſerve God ſo exactly, according to the word of God: and that men ſhould take ſo much pains in the ſervice of God as they do: they wonder that men ſhould give themſelves to ſuch ſtrict duties, as reading, prayer, and meditation in their fa<g ref="char:EOLhyphen"/>milies, conferring one with another, and ſhould take ſo much pains in the publique aſſemblies, to hear the word preached, and go ſo often to dayes exerciſe as they do. The wicked man thinks it ſtrange that he cannot have his godly neighbour overtaken in his baits, to run with him into the ſame exceſſe of wickedneſſe; this is the wicked mans wonder, that men profeſs Religion as they do, that men declare ſo much for God, and ſerve God on that faſhion: a wicked man will ſerve God a little on the Lords day, and himſelf all the wéek after, and when the Lords day is come, he will not give the whole day to the Lord, he'l have the great<g ref="char:EOLhyphen"/>eſt part to himſelf, and that day his heart is ſo ſet upon worldly profit, that his whole deſire runs after it.</p>
+            <pb facs="tcp:31688:5"/>
+            <p> But Beloved, conſider I beſeech you, what will it profit a man to gain the whole world, if he thereby bring his poor ſoul in danger? our Saviour Chriſt ſpeaking to the ſame purpoſe, <hi>Mark 8.36.</hi> For ſaith he, <hi>What ſhall it profit a man if he gain the whole world and looſe his own ſoul?</hi> Beloved, conſider I beſeech you, it is worth your pains, you cannot do to much in the worſhip of God; for when you have done all you can do, you are but unprofitable ſer<g ref="char:EOLhyphen"/>vants: for all you can do in the worſhip and ſervice of God, is little enough for you to do, if you would but ſeriouſly conſider it, I pray you lay it to heart: what do you think will be the end of thoſe, that never in all their life time take eare to ſerve God? thoſe that are com<g ref="char:EOLhyphen"/>mon great ſinners, as Drunkards, Swearers, Sabbath-breakers, and ſuch as die continually laſting themſelves aſleep in their ſinns, <hi>1 Pet. 4.17.18. For the time is come that judge<g ref="char:EOLhyphen"/>ment muſt begin at the houſe of God, and if it firſt begin at us? what ſhall the end be of them that obey not the Goſpel of God? and if the righteous ſcarcely be ſaved, where ſhall the un<g ref="char:EOLhyphen"/>godly and ſinner appear?</hi>
+            </p>
+            <p>Secondly, wicked men wonder at the power of godlineſs: wicked men have a form of god<g ref="char:EOLhyphen"/>lineſs, but deny the power of godlineſſe, <hi>2 Tim. 3.5. Having a form of godlineſs, but denying the power thereof, from ſuch turn away:</hi> ſome men there are in the world that have a zeal for God, but it is not according to ſound know edge, like the Jews we read of, <hi>Rom. 10.2.</hi>
+            </p>
+            <pb facs="tcp:31688:5"/>
+            <p> And as wicked men wonder at the power of godlineſs, and at the practiſe of godlineſs: ſo they wonder at the inward notions of the things of God: and firſt, they wonder to hear a man ſa<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord is with them, or their heart is lif<g ref="char:EOLhyphen"/>ted up in the worſhip and ſervice of God; and they have refreſhment, and are nouriſhed by hearing of the Word at God. But ſouls conſi<g ref="char:EOLhyphen"/>der, do not deceive your ſerves, you that won<g ref="char:EOLhyphen"/>der thus at Religion: a gracious Soul finds much comfort in the wayes of God: a graci<g ref="char:EOLhyphen"/>ous heart ſpeaks thus, <hi>Pſal. 84.10. For a day in thy Court, is letter then a thouſand; I had rather be a door keeper in the Houſe of my God, then to dwell in the tents of wickedneſs.</hi> Saith a gracious heart, all the wayes of God are wayes of wiſ<g ref="char:EOLhyphen"/>dome, and all the wayes of wiſdome, are ways of pleaſantneſs.</p>
+            <p>Secondly, whicked men wonder to ſee men afraid of the power of God, its no wonder to ſee one man afraid of another man: it is no wonder to ſee a poor man afraid of a great mans anger: but it is a wonder to wicked men to ſee a gracious ſoul afraid of Gods power and an<g ref="char:EOLhyphen"/>ger againſt him for ſin: it may be that wick<g ref="char:EOLhyphen"/>ed men will not ſin ſo openly before the world, as to commit ſin, that is by the Lawes of the Nation to be puniſhed (in the preſence of Au<g ref="char:EOLhyphen"/>thority that is to puniſh ſin) though it may be they will do it in private, or in the preſence of their wicked communions: whereas the ſincere heart cries out with good <hi>Ioſeph: How ſhall I do this great wickedneſſe and ſin againſt God? Gen.
+<pb facs="tcp:31688:6"/>39.9.</hi> O conſider ſouls, if ever you come to a holy knowledge of the precious good of our ſouls, you will come to know that what ever you do in ſecret cannot be hid from the All-ſee<g ref="char:EOLhyphen"/>ing eye of God, <hi>Pſal. 94. ver. 4. The Lord plant<g ref="char:EOLhyphen"/>ed the ear, ſhall he not hear? he that formed the eve, ſhall he not ſee?</hi> Beloved, God hath both made your ears and your eyes, and therefore he doth both hear you, and ſée you, when man ſees you not. Conſider God ſées you and takes notice of you, Prov 21.12. verſe, <hi>The hearing ear, and the ſeeing eye, the Lord hath made them both;</hi> ſo like<g ref="char:EOLhyphen"/>wiſe in <hi>1 Pet. 3. ver. 12. For the eyes of ths Lord are over the righteous, and his ears are open to their prayers, but the face of the Lord is againſt them that do evil.</hi> Now conſider all you that forget God, you can do nothing ſo ſecreetly but God ſées you: God ſees both the juſt and the unjuſt, and will reward them according to their works and their doings: all things are open and plain be<g ref="char:EOLhyphen"/>fore the Lord, there is nothing hid from him, the Lord ſées you, &amp; knows your very thoughts <hi>Pſal. 94. ver. 11. The Lord knoweth the thoughts of man, that they are vanity.</hi> The Lord hath an eye whereby he diſcerns all things that you do.</p>
+            <p>Thirdly, wicked men wonder at the Child of God, preſſing upon others to ſerve God, and to turn from their ſins, this they count great buſineſs like to thoſe wicked perſons we read of, <hi>Acts 17.</hi> that made a tumult when the<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaw men believe the Goſpel, <hi>Acts 17.4, 5, 6.</hi> wicked men are moved with envy, when they ſée the people of God ſéek to draw away men from ſin
+<pb facs="tcp:31688:6"/>and ſo count that what they do are unlawfull cuſtoms, <hi>Acts 16.20.</hi> But beloved, conſider I deſire you in the name of the great God of hea<g ref="char:EOLhyphen"/>ven, and take heed of your ſelves, conſider what you have to do for the good of your poor ſouls.</p>
+            <p>Fourthly, Wicked men wonder at the child of Gods Heavenly converſation, wicked men deſpiſe the child of Gods zeal for God, even as <hi>Michaell</hi> the Daughter of <hi>Saul</hi> deſpiſed <hi>David</hi> for his zeal before the Lord, <hi>2 Sam. 6.</hi> verſe <hi>20.</hi> for which ſhe was childleſs, verſe the laſt: now conſider all you that deſpiſe Gods people for their zeal, leſt God ſmite you with his judge<g ref="char:EOLhyphen"/>ments, and you periſh in his anger, <hi>Pſal. 2. ver. 12. Kiſs the Son leaſt he be angry, and ye periſh in the way, when his wrath is kindled but a little.</hi> Be<g ref="char:EOLhyphen"/>loved, it is that that wicked men are incident unto, to wonder at Gods people, and they do not only wonder at them, but they rail at them.</p>
+            <p>Fifthly, The practiſe of wicked men is to rail at them that are really godly and to revile them and ſay all manner of evill againſt them: therefore our Saviour Jeſus Chriſt, in <hi>Mat. 5.11. verſe,</hi> pronounceth them bleſſed; now there are divers wicked men that wonder at Gods people of divers qualities, and ſo they practice, and act divers wayes in wondring at Gods people. Firſt, There is the openly pro<g ref="char:EOLhyphen"/>phane perſon, he rails at you that truely fear God, and ſcoffs and jéers Religion. Secondly, There is the civil worldly Wiſe man, and he wonders much at the Child of Gods Heavenly converſation, and godly life, he is on that fa<g ref="char:EOLhyphen"/>ſhions
+<pb facs="tcp:31688:7"/>himſelf like to the world, and when Re<g ref="char:EOLhyphen"/>ligion is in faſhion, he will be religious, and when religion is in perſecution, he will perſe<g ref="char:EOLhyphen"/>cute it too: and ſo the child of God becomes a wonder to all, Pſal. <hi>14.6. You have ſhamed the counſels of the poor, becauſe the Lord is his refuge.</hi> The worldly wiſe men, they count all the ways of Godlineſs, to be fooliſhneſs, whereas the A<g ref="char:EOLhyphen"/>poſtle ſaith plainly in the <hi>1</hi> Cor. <hi>1.21. The world by wiſdome knew not God:</hi> Beloved, it is not the worlds wiſdome that will redéem you from hell, or bring you into heaven, <hi>1</hi> Cor. <hi>1.26.</hi> ver. <hi>For you ſee your calling breth<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en, <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> no<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many wiſe men are called, &amp;c.</hi> Beloved, con<g ref="char:EOLhyphen"/>ſider of it, you that are worldly wiſe men, and you that are formal profeſſors, outſide Chriſti<g ref="char:EOLhyphen"/>ans; you that count all below you wicked and prophane, and all that are above ſtrict and pre<g ref="char:EOLhyphen"/>ciſe: you are as ill enemies to Chriſt, as the openly prophane perſon is: for he that is open<g ref="char:EOLhyphen"/>ly prophane, is openly known and diſcerned, whereas you cover your ſelves with the fig<g ref="char:EOLhyphen"/>leaves of outward Profeſſion, whereas your hearts are moſt wicked and viſe: although you are not common ſwearers nor Drunkards, nor ſuch as are accounted Sabbath-breakers, but you are worldly wiſe men, you are ſuch as in<g ref="char:EOLhyphen"/>deed have a form of godlineſs, but you have not the true power, and true practice of godlineſſe: why, if this be your condition, you are out of the way, you are the greateſt enemies to Chriſt, for you make an Idoll of your own way, and ſet up that in your heart, and think evill of all
+<pb facs="tcp:31688:7"/>the ways of godlineſs, when as there is within you a root of bitterneſs, and an heart that hear<g ref="char:EOLhyphen"/>eth gall and wormwood, <hi>Deut. 29.18.19.</hi>
+            </p>
+            <p>And now Beloved, having ſhewed you how the people of God are the worlds wonder, and w<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cked mens wonder, and how wicked m<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n re<g ref="char:EOLhyphen"/>vile them, and take occaſion to ſcoff and jeer them: I ſhall now in the third place ſhew the occaſions why it is that Gods people are the worlds wonder.</p>
+            <p>And Firſt of all, God hath for ſecret ends ordered it, that Gods own people are the worlds wonder: it is ſo by Gods appointment, <hi>Iſa. 8.8.</hi> Behold I and the children whom the Lord hath given me, are for ſignes and wonders in Iſrael, from the Lord of Hoſts that dwelleth in mount Zion. It is the lot of Gods people to be for ſignes and wonders: God in his ſecret wiſdom hath ſo appointed it, therefore be con<g ref="char:EOLhyphen"/>tented with it all you that fear God, it was to old in time, and it is ſo in our time, we may ſée it by experience God people are wondred at.</p>
+            <p>Secondly, worldly wiſe men that are blind in their judgements: they are as men blind-folded, they do not ſée nor diſcern the wayes of God, and his people, <hi>1 Cor. 2.14.</hi> there is a na<g ref="char:EOLhyphen"/>tural blindneſs in natural men, that makes the things of God dubious unto them, they cannot underſtand them, and ſo they become fooliſhneſs unto them, and they eſteem them not. Belo<g ref="char:EOLhyphen"/>ved, conſider it, this is the condition of natural men and worldly minded men: Heaven is leſt
+<pb facs="tcp:31688:8"/>in their thoughts, and they look very little after Heaven; but let a man diſcourſe with them, and this for the moſt part they will reply, <hi>that they hope they ſhall be ſaved as well as the beſt that make much ado, and they know God is mercifull, and they reſt themſelves upon the Lords mercy;</hi> but the whole courſe of their deſires is after the world, and worldly profit; all their affections are upon things below, but the word and the meſſage of God by his ſpirit in the mouths of his Miniſters, they count parables, <hi>Ezek. 20. ver. 49. Mark 12. ver. 24. wicked men as naturall bruit beaſts, ſpeaking evil of the things they under<g ref="char:EOLhyphen"/>ſtand not, 2 Pet. 2. v. 12.</hi> Beloved the men of the world they never underſtand, nor ſéek after God: O conſider this all you that forget God, <hi>Pſal. 50.22. Conſider this all you that ſpeak proud words againſt the Lord, Mal. 3.13. You whoſe words have been ſtour againſt the Lord,</hi> Conſider this all you that are naturally blinded in your ſins; if you did but know the danger you were in, you would not do as you do.</p>
+            <p>Thirdly, There is a principal of Irreligion in wicked men; rather then they will condemn themſelves, they will condemn all the wayes of Gods people; nay, rather then they will condemn their own ſins, they condemne the ways of holineſs; nay, rather then they would forſake their ſins, and become new creatures, they will rather ſeek to perſwade others to ſin with them, there is ſo few in the world that are really godly, that they may well become a wonder, though many profeſs Chriſt, yet there
+<pb facs="tcp:31688:8"/>are but a few that truely reſt, and acquieſs themſelves in Chriſt. Beloved, there are ma<g ref="char:EOLhyphen"/>ny men in the world that are Religious, but there are but few in the world that are truely and really religious: <hi>Many are called but few are choſen; the whole world lyeth in wickedneſs, 1 John 5.19.</hi> Whole Nations lie in wickedneſſe, whole Countries, Cities, and Towns lie in wickedneſſe. Beloved, wickedneſs is the fa<g ref="char:EOLhyphen"/>ſhion of the world, and he that is moſt wicked, is moſt in faſhion; a man that hath his cloaths out of faſhion, is a man that is ſore looked at, and wondred at: Beloved, he that is a true Saint of God, is like a man out of faſhion with his cloaths, he is a man ſore looked at, and wondred at: godly men they are but few, and as we may ſay, they are thin ſowed, they are but here one, and there another, one in a City, and two in Tribe, it may be a man can ſcarſly find one in a City, in ſome places in the world: the Lord was ever ſo merciful, that if there had bin but ten righteous perſons found in <hi>Sodome,</hi> the Lord would have ſpared <hi>Sodome</hi> for their ſakes, but there was not ten to be found in the whole City, that were righteous perſons: we do not read of any but <hi>Lor</hi> and his family, <hi>Gen. 18. ver. 32. And that very moment that Sodome was deſtroyed, Lot entred into Zoar, and that City was ſaved for Lots ſake, Gen. 19.21, 22, 23.</hi> Beloved, if it be ſo that godly perſons are ſo few to be found, as indeed it hath been ſo formerly, and I pray God for his mercies ſake, it be not ſo amongſt us at this preſent day, <hi>Ier. 5. ver. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:31688:9"/>Run ye too and fro throughout the ſtreets of Ieruſa<g ref="char:EOLhyphen"/>lem, and know, and ſeek in the broad places of the City, and ſee if you can find a man, if there be any that executeth judgement, and that ſeeketh the truth, and I will pardon it:</hi> And thus; ou may ſee they that are really the people of God, they are but few in number, godly men are v<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry few, and they have many Enemies, affronting them, wicked men they are a great numbers, and ſtand ſtiffly in oppoſition againſt them, and when they have nothing elſe to ſay, they can af<g ref="char:EOLhyphen"/>front the people of God, with their holy carri<g ref="char:EOLhyphen"/>age towards God, what they ſay, do you think that none muſt go to Heaven, but you? we make not ſuch a do, and yet we hope to be ſa<g ref="char:EOLhyphen"/>ved as well as you: what ſay they, ſhall no one be ſaved, but ſuch as you? ſhall no one ne<g ref="char:EOLhyphen"/>ver come to Heaven but ſuch as make ſo much a do of praying and preaching, as you do, as if we were ready to die every moment? ſoul who<g ref="char:EOLhyphen"/>ever thou art that thus reaſons againſt God and his people, thou if ever the Lord opens thy eyes, will repent of the folly, and at the hour of death when thou knoweſt that thou muſt die, and can live no longer, thou wouldſt give all the trea<g ref="char:EOLhyphen"/>ſure in the world, if it were in thy power to be in ſuch a condition as the pooreſt ſoul is in the world, that hath feared God truly, yea thou wouldeſt wiſh then that thou hadſt lived as ſuch a one hath done, when thou formerly hath de<g ref="char:EOLhyphen"/>ſpiſed, mocked, and jeered, thou could be will<g ref="char:EOLhyphen"/>ing new to change condition with him.</p>
+            <p>Fourthly, Goods People are become the
+<pb facs="tcp:31688:9"/>worlds wonder, becauſe there are many great men, that are wicked men, many great men are wonderers, there are many great men, and but few great men that are good men, great men are either proud, or preſumptuous, for the moſt part, Jer. <hi>5.5. I will go unto the great men and ſpeak unto them, for they have known the way of the Lord, and the judgements of their God, but theſe have altogether broken the Yoak, and burſt the bands:</hi> Great men are great enemies to God and his people. But beloved conſider, if it be ſo as you chance to ſee a great man to be<g ref="char:EOLhyphen"/>come a good man, that indeed is a mighty force<g ref="char:EOLhyphen"/>ing argument to encourage people in the ways of God, and a mighty help to Religion, and thus you ſee godly perſons are men woudred at: for theſe ends, Firſt, God hath ordered it: Secondly, Worldly wiſe men are blinded in their judgements: Thirdly, There is a prin<g ref="char:EOLhyphen"/>cipal of irreligion in moſt men, and Fourthly, Few great men are good men.</p>
+            <p>And now Beloved to apply this truth to our ſelves, conſider, that he that the world moſt wonders at, and eſteems the leaſt, and counts the moſt unhappieſt, its moſt certain that that man is the moſt happieſt of all other: Soul if thou be never ſo weak, nor never ſo low, nor never ſo baſe in the worlds account, if thou have but grace truely ſeaſoned with holineſs, thy condition is happy: true piety will bring thee from thy low condition, to enjoy happineſs with poor <hi>Lazarus</hi> in Heaven: whereas Pride, and Preſumption may bring thee torment in Hell,
+<pb facs="tcp:31688:10"/>with rich <hi>Dives,</hi> Ah ſaith one, I am but a poor man, but if I were as rich as ſuch a man. I would deſire no more in the world but to be in as good an eſtate as ſuch a man: this is almoſt the reply of moſt men of the world: but ſoul conſider, doſt thou want nothing elſe, I am ſure if thou be but a carnal man, thou wanteſt y<hi rend="sup">e</hi> chiefeſt mercy, and thou never deſires it: that is to have thy ſoul enriched with grace and true holineſs: many a man will deſire and wiſh he were as well to live as ſuch a neighbor, but few deſire to be in ſuch an eſtate, as a poor ſoul that really fears God: many deſire if they could to be in a good eſtate here, many could well be con<g ref="char:EOLhyphen"/>tent to be in <hi>Dives</hi> eſtate for outward prefer<g ref="char:EOLhyphen"/>ment here, but few deſire to be in <hi>Lazarus</hi> pover<g ref="char:EOLhyphen"/>ty: many could deſire to have <hi>Dives</hi> riches in the world, and <hi>Lazarus</hi> Heaven, but the will not be obtained: men have not the world in ſuch ac<g ref="char:EOLhyphen"/>ceptation in their hearts, that they never look after Heaven, nor the things that do belong to their peace, and welfare: but beloved, God ſées you not as men ſees you, God ſées your hearts, and he values it, though men cry out after the world, yet God calls for the heart, <hi>Prov. 3.1. My ſon forget not my Law, but let thy heart keep my commandements;</hi> Beloved, if ever you intend to be ſaved, let not the world, nor worldly ſubſtance be your choice, <hi>fuſt ſeek the kingdome of cleaven, and the righteouſneſs thereof:</hi> and come to God in the name of Jeſus Chriſt, and get a full aſſurance in Jeſus Chriſt, that through his merits and blood-ſhed you may come to Heaven.</p>
+            <pb facs="tcp:31688:10"/>
+            <p> And now conſider beloved, I beſeech you, if Gods people be the worlds wonder, who are they that wonder at them? and let me now ſpeak a word to thoſe that wonder at the people of God, to ſpeak to every common ſinner ac<g ref="char:EOLhyphen"/>cording to his ſin, is too large for this ſmall volume, but in general, to the contentious per<g ref="char:EOLhyphen"/>ſon, the proud perſon, the carnal-minded man, the Swearer, the Lyer, and the Kaylor the Sabbath-breaker, the Fornicator, and Adul<g ref="char:EOLhyphen"/>terer, whatſoever thy ſin is, they that fear God, wonder at thee, as well as thou wonders at them: they wonder at you, to ſee your carriage and behaviour.</p>
+            <p>They wondor at you, that are wicked men, how you dare ſin againſt God that made you? that you have ſo little care, and grace in you, as to commit ſin againſt the great God of Hea<g ref="char:EOLhyphen"/>ven and Earth, that made you, and gave you his word as a rule to walk by, they wonder at you, how you dare covet ſo much after the things of the world, and regard your ſouls no more: and you that are Drunkards, how dare you give more honour to the creature, then you do to the Creator that made you? and you that are Swearers, and Lyers, and Sabbath-breakers, and Raylors, and Adulterers, what do you think will become of you in the end? what would you do, if God ſhould with-hold his mercy from you, and ſhould not give you the fruits of the Earth, nor rain from Heaven? if God ſhould with-hold from you the labour of your hands, and you ſhould not enjoy food for your bodies,
+<pb facs="tcp:31688:11"/>refreſhment, nor raiment to cover you with? It is God that giveth both, but you offend by your wicked walking, <hi>Pſal. 145.15, 16. verſes. The eyes of all things wait upon thee, and thou gi<g ref="char:EOLhyphen"/>veſt them meat in due ſeaſon: thou openeſt thy hand and ſatisfieth the deſire of every living creature.</hi> God giveth you all his mercies, and you little conſider it, but what would you do if God ſhould ſay unto you, go to your luſts that you have ſerved, as gods before me, and let them feed you, and cloath you? O ſouls, conſider the Lord ſees you, and knows your goings, out and your returnings in, <hi>The eyes of the Lord are o<g ref="char:EOLhyphen"/>ver all, the Lord preſerveth all that call upon him, but the wicked will he deſtroy, Pſal. 145.19.</hi>
+            </p>
+            <p>Conſider this all you that wonder at the ſaints of Gods holy walking before God: they wonder at you, how you dare murmure againſt the way of God and againſt holineſs, being the Scripture ſaith, <hi>without holineſs no eye ſhall ſee the Lord;</hi> what do you think will become of you that never repented in all your Life time of your ſins, and yet are common great ſinners? whereas the Scripture faith, <hi>1 Cor. 6.9.10. verſes. Know you not that the unrighteous ſhall not inherit the kingdome of God? be not deceived, neither Fornicators, nor Idola<g ref="char:EOLhyphen"/>ters, nor Effeminate, nor abuſers of themſelves with mankind, nor Thieves, nor Covetous, nor Drunkards, nor Revilers, nor Extortioners, ſhall inherit the Kingdome of God. And Rev. 21. ver. 8. But the fearful, and unbelieving,
+<pb facs="tcp:31688:11"/>and abominable, and Murderers, and Whore<g ref="char:EOLhyphen"/>mongers, and Sorcerers, and Idolaters, and all Lyars, ſhall have their portion in the Lake that burneth with fire and brimſtone, which is the ſecond death:</hi> Now conſider all you that won<g ref="char:EOLhyphen"/>der at Gods people, what ever ſin you you lie under without repentance, you are excluded out of Heaven, and muſt periſh; there is no way to eſcape Hell and recover Heaven, but by repen<g ref="char:EOLhyphen"/>tance, I may ſay unto you in this cauſe, as Chriſt ſaid unto the <hi>Samaritans</hi> that eſcaped, <hi>Luk. 13. ver. 13. I tell you nay, but except you repent, you ſhall all likewiſe periſh.</hi> God may ſometimes in his judgements meet with ſinners in their ſins, that others may ſee and take warning by their fall, as ſome that have been common drunkards, have in their drink taken ſurfeits, and ſo have had their bodies weakned by diſea<g ref="char:EOLhyphen"/>ſes, and their days ſhortned: ſome in their drink have been drowned in the water, and ſome have been murdered in their drink, as being unſen<g ref="char:EOLhyphen"/>ſible, and not of their own men, <hi>2 Sam. 13. Chap. A mon being drunk, was ſlain by Abſaloms ſervant:</hi> and ſome covetous perſons, through their co<g ref="char:EOLhyphen"/>vetouſneſs have been their own murderers, <hi>1 Sam. 25. Chap. Nabal through covetouſneſs, and drunkenneſs, his very heart dyed within him. Acts 5. Chap. Ananias and Saphirah his Wife were both ſmitten down dead at the Apoſtles feet. Ahab would not believe the Lords meſſage by Micah, and was ſlain at Ramoth Gilead.</hi>
+            </p>
+            <p>And now conſider a little further, all you
+<pb facs="tcp:31688:12"/>that wonder at Gods people, what do you think men go hear the Word of God ſo often for? do you think it is ſufficient for you, if you hear the Word preached to be ſaved? can you hear the Word and receive it? and practiſe wicked<g ref="char:EOLhyphen"/>neſs? what anſwer will you make God at the laſt day? when he ſhall ſay unto you, at ſuch a Congregation thou waſt, and I there reproved thee for thy drunkenneſs, thy ſwearing and thy lying but thou regarded not my word, thou de<g ref="char:EOLhyphen"/>ſpiſed in thine heart both my Prophets and my people? like to thoſe <hi>Ezek. 33.30, 31, 32. ver. Alſo thou Son of m<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, the children of thy people ſtill are talking againſt thee by the walls, and in the doors of the houſes, and ſpeak one to another, every one to his brother, ſaying, come I pray you, and hear what is the word that cometh forth from the Lord. And they come unto thee as the people cometh, and they ſit before me as my people ſitteth, and they hear my words but do not do them: for with their mouths they ſhew much love, but their hearts goeth after covetouſneſs, &amp;c.</hi> Beloved this is the condition of moſt of our worldly carnal perſons: they w<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>l go to the Church and hear the Word, and it may be condemn others by it, but they will not look to their own hearts, they will not con<g ref="char:EOLhyphen"/>demn their own wickedneſs by it, they will not ſee their own ſin to be that that the Word con<g ref="char:EOLhyphen"/>demns: and this is that that makes Gods people to wonder at them ſo much, becauſe they live as if they never intended to dye, they are as men both out of the way and out of their wits, <hi>Pſal. 14.1.</hi> And thus the folly and mad<g ref="char:EOLhyphen"/>neſſe
+<pb facs="tcp:31688:12"/>of wicked men doth appear, and yet in their wickedneſſe, they wonder greatly at one another: wicked men are become wonders to themſelves, they wonder greatly at one ano<g ref="char:EOLhyphen"/>ther, the covetous man he wonders at the drunk<g ref="char:EOLhyphen"/>ards careleſs life, and he labours to make a prey of him, the drunkard he wonders at the covetous perſon, that he hath no good fellow<g ref="char:EOLhyphen"/>ſhip with him, the proud man, he wonders at the drunkard that he cloaths his back no better, but that he is ſo bare in apparel, and he won<g ref="char:EOLhyphen"/>ders at the covetous Uſurer, that he doth not lay out ſome of his corrupted monies on his back, that he goes in cloaths of old faſhion, and plain cloaths: and the Uſurer, he wonders both at the drunkard and the proud perſon: and wicked men are not onely the wonders of o<g ref="char:EOLhyphen"/>thers, but alſo wonders to one another. Now I have one word more, and it is to thoſe that are really godly: you that are,</p>
+            <p>Firſt, Both a wonder to the world, and a wonder to wicked men: here is your comfort, you may know by this what centry you are of: <hi>If you were of the world, the world world love you, you are not of the world, Iohn 17.16.</hi> As Chriſt is not of the world, ſo are you not of the world, you are ſuch as Chriſt himſelf prays for, <hi>ver. 9. I pray not for the world, but for ſuch as thou haſt given me:</hi> here is your comfort, a moſt noble overcoming, Saints of the moſt high God, even the ſame glory that the Father hath given to Chriſt, even with the ſame glory ſhall you be glorified, <hi>ver. 22.</hi>
+            </p>
+            <pb facs="tcp:31688:13"/>
+            <p> Secondly, Godly men will own thee, and wicked men cannot but ſubſcribe that all things thou doeſt are right in the ſight of God.</p>
+            <p>Thirdly, The work that thou doeſt is the very work of God, that Saints have done, and do, to the end of the world: thy work is the work of Angels, thou art heir of Heaven, and if there be any happineſs to be had, it is to be had in Heaven.</p>
+            <p>Fourthly, Though the world wonder at thée yet the Lord wonders not at thee, the Lord loves thée, the Lord himſelf regards thee, and the Lord will own thee in y<hi rend="sup">e</hi> day that he makes up his jewels, <hi>Mal. 3.17. The Lord is thy Shep<g ref="char:EOLhyphen"/>herd, thou ſhalt have no want, Pſal. 23.1.</hi> O moſt noble overcoming, the Lord is your counſel<g ref="char:EOLhyphen"/>lour, <hi>Pſal. 33.11, 12. The counſel of the Lord ſtandeth for ever, the thoughts of his heart to all generations: bleſſed is the nation whoſe God is the Lord, and the people whom he hath choſen for his own inheritance.</hi>
+            </p>
+            <p>Now here is thy comfort, thou art choſen for his own inheritance: therefore the Lord lo<g ref="char:EOLhyphen"/>veth thee, O therefore moſt noble overcoming Saints and Servants of the moſt high God, be exhorted to praiſe the name of the Lord your God for ever, and declare the wonderful works he doth for the children of men: conſider your God is a God that doth wonderful things for you, he is a wonderful Counſellor. O then let us in the name of the Lord Jeſus Chriſt, labour and ſtrive to be of that number, that are ac<g ref="char:EOLhyphen"/>counted the worlds wonder, and let us praiſe
+<pb facs="tcp:31688:13"/>the name of the Lord with the Pſalmiſt, <hi>Pſal. 77.11, 12, 13, 14, 15. I will remember the works of the Lord, ſurely I will remember thy wonders of old, I will meditate alſo of thy works, and talk of thy doings thy way O God is in thy Sanctuary, who is ſo great a God as our God? thou art the God that doth wonders thou haſt declared thy ſtrength among thy people, thou haſt with thy Arm redeemed thy people, the ſeed of Jacob and Ioſeph.</hi>
+            </p>
+            <p>Now the great God of Heaven and Earth, give us underſtanding in all things, and keep us now and evermore in knowledge of thy truth, that we may walk before him in fear all the days of our appointed eime, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books Printed for, and ſold by <hi>Thomas Peſſin<g ref="char:EOLhyphen"/>ger,</hi> at the Three Bibles on the middle of <hi>London-Bridge.</hi>
+            </head>
+            <list>
+               <item>THe Chriſtians Combate, or his true ſpi<g ref="char:EOLhyphen"/>ritual Warfare: by <hi>C. Love,</hi> late Preach<g ref="char:EOLhyphen"/>er of the Word in the City of London.</item>
+               <item>The Wiſe Merchant, or the pearl of price: by <hi>T. Calvert,</hi> Mintſter in York.</item>
+               <pb facs="tcp:31688:14"/>
+               <item> The Book of Graces, with Prayers for Morn<g ref="char:EOLhyphen"/>ing and Evening: Theſe are but three pence a piece.</item>
+               <item>The Sinners warning piece, or Heavens Meſ<g ref="char:EOLhyphen"/>ſengers: by <hi>T. Robins</hi> B. of D.</item>
+               <item>Englands golden legacy, or a brief deſcri<g ref="char:EOLhyphen"/>ption of the manifold mercies the Lord hath beſtowed upon this ſinful Nation.</item>
+               <item>Gods Meſſage from Heaven to ſinners on earth: By T. P. B of L.</item>
+               <item>The Vertuous Wife is the glory of her Hus<g ref="char:EOLhyphen"/>band, being a new Book ſhewing the rare qua<g ref="char:EOLhyphen"/>lities of the Vertuous Wife.</item>
+               <item>Chriſt upon the Croſs ſuffering for ſinners, by S. S.</item>
+               <item>The School of Learning, or a guide for Children, being Prayers for every day in the week, with grace before and after Meat.</item>
+               <item>
+                  <hi>Gods</hi> Call to unconverted ſinners: by T. P.</item>
+               <item>Now or never work out your ſalvatioon with fear and trembling: by B. R. Theſe Eleven laſt are ſold for two pence a piece, and all very uſeful for theſe times.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31688:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
